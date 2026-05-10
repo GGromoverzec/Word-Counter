@@ -127,7 +127,7 @@ def listen():
 
 # ---------- UI ----------
 app = ctk.CTk()
-app.title("WordCounter 1.2.4")
+app.title("WordCounter")
 app.geometry("600x500")
 
 count_label = ctk.CTkLabel(app, font=("Arial", 50))
